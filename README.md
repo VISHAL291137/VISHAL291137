@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VISHALKUMAR</h1>
-<h3 align="center">I Am frontend developer & also passionate with Cyber-Security Analyst from India</h3>
+<h3 align="center">I Am frontend developer & also Passionate with Cyber-Security Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal291137&label=Profile%20views&color=0e75b6&style=flat" alt="vishal291137" /> </p>
 
