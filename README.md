@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/vishal-kumar291137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-kumar291137" height="30" width="40" /></a>
 <a href="https://instagram.com/vishalkumar.010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishalkumar.010" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vishal291137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishal291137" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@vishal291137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="vishal291137" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@vishal291137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="[vishal291137](https://www.hackerrank.com/profile/vishal291137)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
