@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VISHALKUMAR</h1>
-<h3 align="center">Working as a cybersecurity analyst and a front end designer in which I had worked on several projects to protect data security and integrating them on the front panel.</h3>
+<h3 align="center">Working as a cybersecurity analyst and a front-end designer in I had worked on several projects to protect data security and integrate them on the front panel.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal291137&label=Profile%20views&color=0e75b6&style=flat" alt="vishal291137" /> </p>
 
