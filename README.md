@@ -1,22 +1,139 @@
-<h1 align="center">Hi 👋, I'm VISHALKUMAR</h1>
-<h3 align="center">Working as a cybersecurity analyst and a front-end designer in I had worked on several projects to protect data security and integrate them on the front panel.</h3>
+# Vishal Kumar - Cybersecurity Analyst & Front-End Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal291137&label=Profile%20views&color=0e75b6&style=flat" alt="vishal291137" /> </p>
+## 👋 About Me
 
-- 📫 How to reach me **vishal291137@gmail.com**
+Hi, I'm **Vishal Kumar**, a passionate **Cybersecurity Analyst** and **Front-End Developer**. I focus on crafting secure, user-friendly digital experiences by blending strong design with data protection principles. With a background in both **web development** and **cybersecurity**, I bring a well-rounded approach to solving modern tech challenges.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/customization notifications account organization extensions  vishal291137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="customization notifications account organization extensions @vishal291137" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vishal-kumar291137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-kumar291137" height="30" width="40" /></a>
-<a href="https://instagram.com/vishalkumar.010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishalkumar.010" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vishal291137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishal291137" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@vishal291137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="[vishal291137](https://www.hackerrank.com/profile/vishal291137)" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🎓 Education
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal291137&show_icons=true&locale=en&layout=compact" alt="vishal291137" /></p>
+### Bachelor of Computer Applications (BCA)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal291137&show_icons=true&locale=en" alt="vishal291137" /></p>
+**Suresh Gyan Vihar University**, Jaipur, Rajasthan
+*Aug 2022 – Present*
+
+### Senior Secondary School Certificate (SSCE)
+
+**R.K.B. Intercollege**, Gitanagar, Nawadah, Bihar
+*2020 – 2022*
+
+---
+
+## 🧠 Skills & Technologies
+
+### Programming & Scripting
+
+* Python, JavaScript, PHP, Java, C
+* HTML5, CSS3
+* Node.js, PowerShell
+
+### Frameworks & Libraries
+
+* React, Bootstrap, Django
+
+### Cybersecurity
+
+* Nmap, Malware Analysis
+* OWASP Top 10 Compliance
+
+### Databases
+
+* MySQL, MongoDB
+
+### UI/UX & Tools
+
+* Figma, SASS, Canvas, MS Office
+
+### OS & Tools
+
+* Linux, Intel Linux Assembly (64-bit)
+* Git, GitHub
+* Docker
+
+---
+
+## 🚀 Projects
+
+### 🛡️ Svalbard - Password Manager & Strength Checker
+
+**Tech:** Python, SQL, Docker
+
+* A secure password manager that follows OWASP best practices.
+* Passwords encrypted with SHA256, protected via master password.
+
+### 💻 College Website for NAAC Accreditation
+
+**Tech:** HTML, CSS, JavaScript
+
+* Developed a responsive university website for Suresh Gyan Vihar University.
+* Contributed UI design and front-end functionality for NAAC compliance.
+
+### 📊 Sales Data Analysis
+
+**Tech:** Python
+
+* Analyzed product-wise sales to measure profitability and performance.
+* Produced insights for business decision-making.
+
+### 🤖 Python Chatbot
+
+**Tech:** Python
+
+* Built a conversational bot to simulate human-like interaction.
+
+### 🍽️ Responsive Food Delivery Platform
+
+**Tech:** HTML5, CSS3, JS, Bootstrap
+
+* Designed a responsive interface with smooth UX across all devices.
+
+---
+
+## 📜 Certifications
+
+* **Google Cloud - Associate Cloud Engineer**
+* **Google Digital Unlocked**
+
+  * Ads Search, Display, Creative, Measurement
+  * Campaign Manager 360, Social Media & Email Marketing
+* **Advance Diploma in Computer Applications**
+  **Institution**: *(Add institution name)*
+  **Grade**: **Grade B (78%) — Very Good**
+  **Duration**: 12 Months
+  **Completed**: December 2021
+
+  > ✅ Built a responsive website using HTML5, CSS3, JavaScript, and Bootstrap during the final project.
+
+---
+
+## 📬 Contact & Links
+
+* 📧 [vishal291137@gmail.com](mailto:vishal291137@gmail.com)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/vishal-kumar291137)
+* 💻 [GitHub](https://github.com/vishal291137)
+* 🏆 [HackerRank](https://www.hackerrank.com/profile/vishal291137)
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm always open to **collaborations**, **freelance projects**, and **internship opportunities** related to web development, cybersecurity, and data analysis. Let's build something impactful together!
+
+---
+
+## 💼 Work Philosophy
+
+I believe in **continuous learning**, **user-first design**, and building **secure-by-default** systems. Every line of code should solve a problem and add real value.
+
+---
+
+## 🌐 Fun Fact
+
+When I’m not coding, I enjoy exploring the world 🌍, reading about new tech vulnerabilities 🛡️, and staying ahead of the curve in the cybersecurity space!
+
+---
+
+## 📈 GitHub Stats
+
+![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishal291137\&show_icons=true\&count_private=true\&hide=prs\&theme=radical)
