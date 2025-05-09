@@ -1,139 +1,111 @@
-# Vishal Kumar - Cybersecurity Analyst & Front-End Developer
+<!-- Optional: Add a custom banner image -->
+<!-- ![Vishal Kumar Banner](https://your-image-link.com/banner.png) -->
 
-## 👋 About Me
+<h1 align="center">Vishal Kumar</h1>
+<h3 align="center">Cybersecurity Analyst | Front-End Developer | Tech Enthusiast</h3>
 
-Hi, I'm **Vishal Kumar**, a passionate **Cybersecurity Analyst** and **Front-End Developer**. I focus on crafting secure, user-friendly digital experiences by blending strong design with data protection principles. With a background in both **web development** and **cybersecurity**, I bring a well-rounded approach to solving modern tech challenges.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&lines=Cybersecurity+Analyst;Python+Developer;Front-End+Developer;Secure.+Build.+Repeat." alt="Typing SVG" />
+</p>
+
+
+---
+
+## 🧾 About Me
+
+Hello! I'm **Vishal Kumar**, a passionate **Cybersecurity Analyst** and **Front-End Developer**. I specialize in crafting secure and user-friendly digital experiences by combining modern UI/UX with industry-grade security protocols.
+
+I thrive at the intersection of **development** and **defense**, ensuring every line of code not only works — but works securely.
 
 ---
 
 ## 🎓 Education
 
-### Bachelor of Computer Applications (BCA)
+- **Bachelor of Computer Applications (BCA)**  
+  *Suresh Gyan Vihar University, Jaipur* (2022 – Present)
 
-**Suresh Gyan Vihar University**, Jaipur, Rajasthan
-*Aug 2022 – Present*
-
-### Senior Secondary School Certificate (SSCE)
-
-**R.K.B. Intercollege**, Gitanagar, Nawadah, Bihar
-*2020 – 2022*
+- **Senior Secondary Certificate (SSCE)**  
+  *R.K.B. Intercollege, Nawadah, Bihar* (2020 – 2022)
 
 ---
 
-## 🧠 Skills & Technologies
+## 🧠 Technical Skills
 
-### Programming & Scripting
-
-* Python, JavaScript, PHP, Java, C
-* HTML5, CSS3
-* Node.js, PowerShell
+### Programming & Markup
+`Python` · `JavaScript` · `PHP` · `Java` · `C` · `HTML5` · `CSS3`
 
 ### Frameworks & Libraries
-
-* React, Bootstrap, Django
+`React.js` · `Bootstrap` · `Django`
 
 ### Cybersecurity
-
-* Nmap, Malware Analysis
-* OWASP Top 10 Compliance
+`OWASP Top 10` · `Nmap` · `Malware Analysis` · `SHA256` · `PowerShell`
 
 ### Databases
+`MySQL` · `MongoDB`
 
-* MySQL, MongoDB
-
-### UI/UX & Tools
-
-* Figma, SASS, Canvas, MS Office
-
-### OS & Tools
-
-* Linux, Intel Linux Assembly (64-bit)
-* Git, GitHub
-* Docker
+### Tools & Platforms
+`Git` · `GitHub` · `Docker` · `Linux` · `Figma` · `MS Office`
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🛡️ Svalbard - Password Manager & Strength Checker
+### 🔐 **Svalbard – Password Manager**
+> *Python · SQL · Docker*
 
-**Tech:** Python, SQL, Docker
+- Implements secure password storage using SHA256 hashing.
+- Dockerized for safe, scalable deployment.
+- Built following OWASP best practices.
 
-* A secure password manager that follows OWASP best practices.
-* Passwords encrypted with SHA256, protected via master password.
+### 💻 **NAAC College Website**
+> *HTML · CSS · JavaScript*
 
-### 💻 College Website for NAAC Accreditation
+- Developed a responsive, accessible website for university accreditation.
+- Led front-end design and UI integration.
 
-**Tech:** HTML, CSS, JavaScript
+### 📈 **Sales Data Analyzer**
+> *Python*
 
-* Developed a responsive university website for Suresh Gyan Vihar University.
-* Contributed UI design and front-end functionality for NAAC compliance.
+- Analyzed product-level profitability and performance.
+- Delivered actionable business insights via data visualization.
 
-### 📊 Sales Data Analysis
+### 🤖 **Terminal Chatbot**
+> *Python*
 
-**Tech:** Python
-
-* Analyzed product-wise sales to measure profitability and performance.
-* Produced insights for business decision-making.
-
-### 🤖 Python Chatbot
-
-**Tech:** Python
-
-* Built a conversational bot to simulate human-like interaction.
-
-### 🍽️ Responsive Food Delivery Platform
-
-**Tech:** HTML5, CSS3, JS, Bootstrap
-
-* Designed a responsive interface with smooth UX across all devices.
+- Simulates human-like text interaction in a CLI environment.
 
 ---
 
 ## 📜 Certifications
 
-* **Google Cloud - Associate Cloud Engineer**
-* **Google Digital Unlocked**
-
-  * Ads Search, Display, Creative, Measurement
-  * Campaign Manager 360, Social Media & Email Marketing
-* **Advance Diploma in Computer Applications**
-  **Institution**: *(Add institution name)*
-  **Grade**: **Grade B (78%) — Very Good**
-  **Duration**: 12 Months
-  **Completed**: December 2021
-
-  > ✅ Built a responsive website using HTML5, CSS3, JavaScript, and Bootstrap during the final project.
+- **Google Cloud** – Associate Cloud Engineer  
+- **Google Digital Unlocked** – Ads, Analytics, Social Media  
+- **Advanced Diploma in Computer Applications** *(Grade B, 78%)*
 
 ---
 
-## 📬 Contact & Links
+## 📊 GitHub Stats
 
-* 📧 [vishal291137@gmail.com](mailto:vishal291137@gmail.com)
-* 🔗 [LinkedIn](https://www.linkedin.com/in/vishal-kumar291137)
-* 💻 [GitHub](https://github.com/vishal291137)
-* 🏆 [HackerRank](https://www.hackerrank.com/profile/vishal291137)
-
----
-
-## 🤝 Let's Collaborate
-
-I'm always open to **collaborations**, **freelance projects**, and **internship opportunities** related to web development, cybersecurity, and data analysis. Let's build something impactful together!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VISHAL291137&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHAL291137&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-## 💼 Work Philosophy
+## 📬 Let's Connect
 
-I believe in **continuous learning**, **user-first design**, and building **secure-by-default** systems. Every line of code should solve a problem and add real value.
-
----
-
-## 🌐 Fun Fact
-
-When I’m not coding, I enjoy exploring the world 🌍, reading about new tech vulnerabilities 🛡️, and staying ahead of the curve in the cybersecurity space!
+- 📧 Email: [vishal291137@gmail.com](mailto:vishal291137@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/vishal-kumar291137](https://www.linkedin.com/in/vishal-kumar291137)  
+- 💻 GitHub: [github.com/VISHAL291137](https://github.com/VISHAL291137)  
+- 🏆 HackerRank: [hackerrank.com/profile/vishal291137](https://www.hackerrank.com/profile/vishal291137)
 
 ---
 
-## 📈 GitHub Stats
+## 💡 Work Philosophy
 
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishal291137\&show_icons=true\&count_private=true\&hide=prs\&theme=radical)
+> “Security is not a product, but a process.” — Bruce Schneier  
+>  
+> **Design first, defend always.** My goal is to build digital systems that are not just functional — but *resilient* and *secure by default*.
+
+---
