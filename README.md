@@ -22,7 +22,7 @@ I thrive at the intersection of **development** and **defense**, ensuring every 
 ## 🎓 Education
 
 - **Bachelor of Computer Applications (BCA)**  
-  *Suresh Gyan Vihar University, Jaipur* (2022 – Present)
+  *Suresh Gyan Vihar University, Jaipur* (2022 – 2025)
 
 - **Senior Secondary Certificate (SSCE)**  
   *R.K.B. Intercollege, Nawadah, Bihar* (2020 – 2022)
